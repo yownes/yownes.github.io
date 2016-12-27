@@ -1,0 +1,16 @@
+{
+    "metas" : [
+        {
+            "name": "description",
+            "content": "Create your own native mobile store easily"
+        },
+        {
+            "name": "keywords",
+            "content": "commerce, m-commerce, e-commerce, store, mobile, android, ios, native"
+        },
+        {
+            "name": "viewport",
+            "content": "width=device-width"
+        }
+    ]
+}

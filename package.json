@@ -1,0 +1,15 @@
+{
+  "name": "Yownes",
+  "version": "1.0.0",
+  "description": "Yownes website",
+  "author": "Jesús Gallego",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-data": "^1.2.1",
+    "gulp-pug": "^3.2.0",
+    "gulp-sass": "^3.0.0"
+  }
+}
