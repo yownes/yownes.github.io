@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Yownes website",
   "author": "Jesús Gallego",
+  "scripts": {
+    "publish": "git subtree push --prefix public origin master"  
+  },
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.5",
